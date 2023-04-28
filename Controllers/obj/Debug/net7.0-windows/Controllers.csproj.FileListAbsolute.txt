@@ -1,0 +1,17 @@
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Controllers.deps.json
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Controllers.dll
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Controllers.pdb
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Conexion.dll
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Modelo.dll
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Modelo.pdb
+C:\Users\alex_\source\repos\Inventario\Controllers\bin\Debug\net7.0-windows\Conexion.pdb
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.AssemblyInfo.cs
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.csproj.CopyComplete
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.dll
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\refint\Controllers.dll
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\Controllers.pdb
+C:\Users\alex_\source\repos\Inventario\Controllers\obj\Debug\net7.0-windows\ref\Controllers.dll

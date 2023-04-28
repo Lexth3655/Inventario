@@ -1,0 +1,12 @@
+C:\Users\alex_\source\repos\Inventario\Conexion\bin\Debug\net7.0-windows\Conexion.deps.json
+C:\Users\alex_\source\repos\Inventario\Conexion\bin\Debug\net7.0-windows\Conexion.dll
+C:\Users\alex_\source\repos\Inventario\Conexion\bin\Debug\net7.0-windows\Conexion.pdb
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.AssemblyInfo.cs
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.dll
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\refint\Conexion.dll
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\Conexion.pdb
+C:\Users\alex_\source\repos\Inventario\Conexion\obj\Debug\net7.0-windows\ref\Conexion.dll
